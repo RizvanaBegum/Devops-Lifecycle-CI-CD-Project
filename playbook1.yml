@@ -1,0 +1,11 @@
+---
+- hosts: localhost
+  become : yes
+  tasks:
+    - name: execute script to install java and jenkins in master
+      script : master.sh
+- hosts : all
+  become : yes
+  tasks : 
+    - name : execute script to install java and docker in slave nodes
+      script : slave.sh
