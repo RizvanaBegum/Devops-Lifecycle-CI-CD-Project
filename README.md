@@ -4,7 +4,8 @@
 This project demonstrates the complete DevOps lifecycle implementation for **Abode Software**, a product-based company. The objective is to automate the software development, testing, and deployment process using **Jenkins, Docker, and AWS EC2** while ensuring CI/CD best practices.
 
 ## Architecture Diagram
-![DevOps Architecture](link-to-your-architecture-image)
+![image](https://github.com/user-attachments/assets/256d2064-02a1-415f-be9e-8b8a4b5c3437)
+
 
 ## Tech Stack
 - **GitHub** - Version control and collaboration
